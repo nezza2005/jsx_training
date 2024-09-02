@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading 
+{
+  color: red;
+}
+
+ul 
+{
+  color: blue;
+}
+
+img 
+{
+  width: 100px;
+  height: 100px;
+}
